@@ -11,4 +11,7 @@ I made a TODO list that you can cross out the word if the task is done or you ca
 * CSS
 * BOOTSTRAP
 
-* Raphael de Mello Garrido da Silva [linkedin](https://www.linkedin.com/in/raphaelmgs/)
+
+
+
+Raphael de Mello Garrido da Silva [linkedin](https://www.linkedin.com/in/raphaelmgs/)
