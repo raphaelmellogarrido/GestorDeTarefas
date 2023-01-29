@@ -6,6 +6,9 @@ I made a TODO list that you can cross out the word if the task is done or you ca
 <img src="/img1.png" width="260">&emsp;
 
 ## Technologies
-* Python 100%
+* Python
+* HTML
+* CSS
+* BOOTSTRAP
 
 * Raphael de Mello Garrido da Silva [linkedin](https://www.linkedin.com/in/raphaelmgs/)
